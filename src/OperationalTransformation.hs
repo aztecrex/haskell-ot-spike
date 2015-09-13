@@ -1,4 +1,6 @@
-module OperationalTransformation where
+module OperationalTransformation (
+  Operation
+) where
 
 
 class Operation a where
